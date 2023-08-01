@@ -1,6 +1,7 @@
 
 Exercícios Estruturas de Repetição
 
+
 <a href="Repetição/Exercícios/Fabrica-de-estrelas-2-main/" target="_blank" >Fabrica de estrelas 2</a>
 
 <a href="Repetição/Exercícios/Programa-Criação-de-Chinchilas-main/" target="_blank" >Programa Criação de Chinchilas</a>
@@ -11,6 +12,7 @@ Exercícios Estruturas de Repetição
 
 
 Exercícios Array
+
 
 <a href="Array/Exercícios/Jogos-Eliminátórios-main/" target="_blank" >Jogos Eliminátórios</a>
 
