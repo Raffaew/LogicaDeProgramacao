@@ -23,3 +23,6 @@ Exercícios Array
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Array/Exerc%C3%ADcios/Programa-%C3%9Altimas-Not%C3%ADcias-main/" target="_blank" >Programa Últimas Notícias</a>
 
  
+Exercícios Strings e Datas
+
+
