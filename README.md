@@ -31,3 +31,7 @@ Exercícios Strings e Datas
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Strings_e_Datas/Exercícios/Frase-Palindromo-main/" target="_blank">Frase Palíndromo</a>
 
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Strings_e_Datas/Exercícios/Multa-De-Transito-main/" target="_blank">Multa de Trânsito</a>
+
+<a href="Funções/Exercícios/clube_de_natacao-main/">Clube de Natação</a>
+<a href="Funções/Exercícios/programa_senha_inicial-main/">Programa Senha Inicial</a>
+<a href="Funções/Exercícios/veterinaria_avenida-main/">Veterinária Avenida</a>
