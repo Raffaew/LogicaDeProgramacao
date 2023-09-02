@@ -1,0 +1,25 @@
+img {
+  max-width: 100%;
+}
+pre {
+  font-size: 1.2em;
+}
+.oculta {
+  display: none;
+}
+.exibe {
+  display: inline;
+}
+.coresBrasil {
+  color: green;
+  background-color: yellow;
+}
+.coresPelotas {
+  color: white;
+  background-color: blue;
+}
+.coresFarroupilha {
+  color:red;
+  background-color: green;
+}
+
