@@ -42,3 +42,8 @@ Exercícios Funções
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Funções/Exercícios/programa_senha_inicial-main/">Programa Senha Inicial</a>
 
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Funções/Exercícios/veterinaria_avenida-main/">Veterinária Avenida</a>
+
+
+Exercícios LocalStorage
+
+<a href="https://raffaew.github.io/LogicaDeProgramacao/Funções/Exercícios/compras-da-semana-main">Compras da Semana</a>
