@@ -46,4 +46,4 @@ Exercícios Funções
 
 Exercícios LocalStorage
 
-<a href="https://raffaew.github.io/LogicaDeProgramacao/Funções/Exercícios/compras-da-semana-main">Compras da Semana</a>
+<a href="https://raffaew.github.io/LogicaDeProgramacao/Persistência_de_dados_com_localStorage/Exercícios/compras-da-semana-main">Compras da Semana</a>
