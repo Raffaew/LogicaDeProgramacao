@@ -3,6 +3,11 @@ var inProduct = document.getElementById("inProduct");
 function addProducts() {
   let product = inProduct.value;
 
+  if(inProduct.value == "") {
+    alert("Insira um produto!");
+    return;
+  }
+
   if (localStorage.getItem("listProducts")) {
     let listProducts = localStorage.getItem("listProducts") + ";" + product;
     localStorage.setItem("listProducts", listProducts);
@@ -40,7 +45,11 @@ document.addEventListener("keypress", function (e) {
 });
 
 function deleteProducts() {
-  if (confirm("Deseja limpar a lista de produtos")) {
+  if(!localStorage.getItem("listProducts")) {
+    alert("Sua lista está vazia!");
+    return;
+  }
+  if (confirm("Deseja limpar a lista de produtos?")) {
     localStorage.removeItem("listProducts");
     document.getElementById("outText").textContent = "";
     inProduct.value = "";
