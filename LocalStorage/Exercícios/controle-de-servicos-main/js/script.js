@@ -47,7 +47,7 @@ function runService() {
   // Retiramos o primeiro item desse array, e imprimimos na tela, para exibir o nome do serviço em execução.
   // Método join() usado novamente e separados por ";" para transformar o array em uma string e salvar no localStorage novamente.
 
-  localStorage.setItem("services", servicesName); // Salva os dados
+  localStorage.setItem("services", servicesName); // Salva os dados.
 
   outServices.textContent = servicesList.length;
   outRun.textContent = run;
