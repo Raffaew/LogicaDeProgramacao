@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  ## Exercícios Estruturas de Repetição:
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Fabrica-de-estrelas-2-main/" target="_blank">Fabrica de estrelas 2</a>
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Programa-Cria%C3%A7%C3%A3o-de-Chinchilas-main/" target="_blank">Criação de Chinchilas</a>
@@ -25,8 +24,7 @@
 ## Exercícios LocalStorage:
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/LocalStorage/Exercícios/compras-da-semana-main">Compras da Semana</a>
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/LocalStorage/Exercícios/controle-de-servicos-main">Lista de serviços mecânicos</a>
-=======
 
-# Meus exercícios resolvidos de [Lógica de Programação](https://raffaew.github.io/LogicaDeProgramacao/).
+
+
  
->>>>>>> fa89548a69630e19a313da475ebb388f84aff77a
