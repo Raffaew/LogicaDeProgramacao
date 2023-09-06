@@ -24,7 +24,3 @@
 ## Exercícios LocalStorage:
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/LocalStorage/Exercícios/compras-da-semana-main">Compras da Semana</a>
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/LocalStorage/Exercícios/controle-de-servicos-main">Lista de serviços mecânicos</a>
-
-
-
- 
