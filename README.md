@@ -1,8 +1,8 @@
 
-# Exercícios Estruturas de Repetição:
+## Exercícios Estruturas de Repetição:
 
 
-<a href="https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Fabrica-de-estrelas-2-main/" target="_blank">Fabrica de estrelas 2</a>
+* <a href="https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Fabrica-de-estrelas-2-main/" target="_blank">Fabrica de estrelas 2</a>
 
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Programa-Cria%C3%A7%C3%A3o-de-Chinchilas-main/" target="_blank">Criação de Chinchilas</a>
 
@@ -11,7 +11,7 @@
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Programa-Repete-Fruta-main/" target="_blank">Repete Fruta</a>
 
 
-# Exercícios Array:
+## Exercícios Array:
 
 
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Array/Exerc%C3%ADcios/Jogos-Elimin%C3%A1t%C3%B3rios-main/" target="_blank">Jogos Eliminátórios</a>
@@ -23,7 +23,7 @@
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Array/Exerc%C3%ADcios/Programa-%C3%9Altimas-Not%C3%ADcias-main/" target="_blank">Programa Últimas Notícias</a>
 
  
-# Exercícios Strings e Datas
+## Exercícios Strings e Datas
 
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Strings_e_Datas/Exercícios/Programa-Criptografia-main/ " target="_blank">Criptografia</a>
 
@@ -34,7 +34,7 @@
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Strings_e_Datas/Exercícios/Multa-De-Transito-main/">Multa de Trânsito</a>
 
 
-# Exercícios Funções:
+## Exercícios Funções:
 
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Funções/Exercícios/clube_de_natacao-main">Clube de Natação</a>
 
@@ -43,7 +43,7 @@
 <a href="https://raffaew.github.io/LogicaDeProgramacao/Funções/Exercícios/veterinaria_avenida-main/">Veterinária Avenida</a>
 
 
-# Exercícios LocalStorage:
+## Exercícios LocalStorage:
 
 <a href="https://raffaew.github.io/LogicaDeProgramacao/LocalStorage/Exercícios/compras-da-semana-main">Compras da Semana</a>
 
