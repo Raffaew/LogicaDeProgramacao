@@ -4,7 +4,7 @@
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Programa-Cria%C3%A7%C3%A3o-de-Chinchilas-main/" target="_blank">Criação de Chinchilas</a>
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Programa-N%C3%BAmero-Perfeito-main/" target="_blank">Número Perfeito</a>
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Programa-Repete-Fruta-main/" target="_blank">Repete Fruta</a>
-This site was built using [GitHub Pages]([https://pages.github.com/](https://raffaew.github.io/LogicaDeProgramacao/Repeti%C3%A7%C3%A3o/Exerc%C3%ADcios/Programa-Cria%C3%A7%C3%A3o-de-Chinchilas-main/)).
+
 ## Exercícios Array:
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/Array/Exerc%C3%ADcios/Jogos-Elimin%C3%A1t%C3%B3rios-main/" target="_blank">Jogos Eliminátórios</a>
 - <a href="https://raffaew.github.io/LogicaDeProgramacao/Array/Exerc%C3%ADcios/Programa-Concurso-main/" target="_blank">Concurso</a>
