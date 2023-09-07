@@ -60,5 +60,5 @@ function reload() {
     outServices.textContent = servicesList.length;
   }
 }
-reload()
+reload();
 // Caso a página recarregue ou feche o navegador, recupera-se os serviços pendentes.
